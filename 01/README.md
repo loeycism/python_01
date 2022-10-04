@@ -1,5 +1,5 @@
 # INDÍCE
-1. [Aprenda o que é a linguagem Python](aula_aula1.py)
+1. [Aprenda o que é a linguagem Python](aula_01/aula1.py)
 2. [Operadores aritméticos e interações com o usuário](aula_02/aula2.py)
 3. [Operadores lógicos](aula_03)
 4. [Laços de repetição](aula_04)
