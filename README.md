@@ -13,5 +13,5 @@ Repositório destinado às minhas anotações no decorrer dos cursos.
 - [Curso da ALURA](https://cursos.alura.com.br/course/python-introducao-a-linguagem) - python: começando com a linguagem
 
 ***
-## Material Complementar
+## MATERIAL COMPLEMENTAR
 - [How-to em Python](https://www.delftstack.com/pt/howto/python/)
